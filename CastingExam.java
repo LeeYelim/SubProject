@@ -4,6 +4,8 @@ class CastingExam{
 		byte b2,b3; 
 		int i1=7;
 		System.out.println("int i1="+i1); 
+		System.out.println("int i1="+i1); 
+		System.out.println("int i1="+i1); 
 
 		b1=(byte)i1 ; //int를 byte에 저장X => Casting 필요
 		System.out.println("byte b1="+b1);
